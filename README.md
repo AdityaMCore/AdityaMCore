@@ -17,7 +17,6 @@ Post-Quantum Cryptography Hardware · VLSI Physical Design · Semiconductor
 ![FSM](https://img.shields.io/badge/FSM-informational?style=flat-square&color=185FA5)
 ![Adder Architectures](https://img.shields.io/badge/Adder_Arch_RCA·CLA·KS-informational?style=flat-square&color=185FA5)
 ![AES Primitives](https://img.shields.io/badge/AES_Primitives-informational?style=flat-square&color=185FA5)
-![SRAM](https://img.shields.io/badge/SRAM-informational?style=flat-square&color=185FA5)
 ![PPA Analysis](https://img.shields.io/badge/PPA_Analysis-informational?style=flat-square&color=185FA5)
 
 ### `// analog & mixed-signal`
@@ -37,11 +36,7 @@ Post-Quantum Cryptography Hardware · VLSI Physical Design · Semiconductor
 ![SkyWater PDK](https://img.shields.io/badge/SkyWater_PDK-informational?style=flat-square&color=854F0B)
 ![Vivado](https://img.shields.io/badge/Vivado-informational?style=flat-square&color=854F0B)
 
-### `// embedded & systems`
-![ESP32](https://img.shields.io/badge/ESP32-555?style=flat-square)
-![Python](https://img.shields.io/badge/Python-555?style=flat-square)
-![LaTeX](https://img.shields.io/badge/LaTeX-555?style=flat-square)
-![Linux Fedora](https://img.shields.io/badge/Linux_Fedora-555?style=flat-square)
+
 
 ### `// research focus`
 ![PQC](https://img.shields.io/badge/Post--Quantum_Cryptography-333?style=flat-square)
@@ -53,6 +48,6 @@ Post-Quantum Cryptography Hardware · VLSI Physical Design · Semiconductor
 
 <div align="center">
 
-`30+ papers` &nbsp;·&nbsp; `JLPT N4 · Jul 2026` &nbsp;·&nbsp; `Targeting Rapidus · 2nm`
+ &nbsp;·&nbsp; `JLPT N4 · Jul 2026` &nbsp;·&nbsp; `Targeting Rapidus · 2nm`
 
 </div>
