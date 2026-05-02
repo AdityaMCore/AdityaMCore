@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- header -->
+<sub>undergraduate researcher · VIT Vellore</sub>
 
-<!--
-**AdityaMCore/AdityaMCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aditya
 
-Here are some ideas to get you started:
+EEE · SENSE Lab · Post-Quantum Cryptography Hardware  
+VLSI Physical Design · Semiconductor · JLPT N4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Digital Design
+`SystemVerilog` `FPGA · Xilinx PYNQ-Z2` `RTL Design` `FSM` `Adder Architectures` `AES Primitives` `PPA Analysis`
+
+### Analog & Mixed-Signal
+`PLL Design` `CSRO-VCO` `Op-Amp Circuits` `MOSFET Biasing` `CMOS Inverter` `PVT Corner Analysis` `Monte Carlo Simulation`
+
+### EDA Tooling
+`ngspice` `Xschem` `PSpice` `OrCAD` `SkyWater PDK` `Vivado`
+
+### Embedded & Systems
+`ESP32` `C / C++` `Python` `LoRa · SX1278` `LaTeX` `Linux · Fedora`
+
+---
+
+<sub>Post-Quantum Cryptography · VLSI · Semiconductor &nbsp;·&nbsp; VIT Vellore · AM-25BEE0060</sub>
