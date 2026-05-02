@@ -18,8 +18,8 @@ VLSI Physical Design · Semiconductor · JLPT N4
 `ngspice` `Xschem` `PSpice` `OrCAD` `SkyWater PDK` `Vivado`
 
 ### Embedded & Systems
-`ESP32` `C / C++` `Python` `LoRa · SX1278` `LaTeX` `Linux · Fedora`
+`ESP32` `Python`  `LaTeX` `Linux · Fedora`
 
 ---
 
-<sub>Post-Quantum Cryptography · VLSI · Semiconductor &nbsp;·&nbsp; VIT Vellore · AM-25BEE0060</sub>
+<sub>Post-Quantum Cryptography · VLSI · Semiconductor &nbsp;·&nbsp; VIT Vellore </sub>
