@@ -7,7 +7,7 @@ Digital-aware analog architecture · Compute-in-Memory · Mixed-signal IC design
 
 [![GitHub](https://img.shields.io/badge/GitHub-AdityaMCore-181717?style=flat-square&logo=github)](https://github.com/AdityaMCore)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-mittal010001/)
-[![Email](https://img.shields.io/badge/Email-aditya.mittal2025%40vit.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aditya.mittal2025@vit.ac.in)
+[![Email](https://img.shields.io/badge/Email-aditya.mittal2025%40vit.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aditya.mittal2025@vitstudent.ac.in)
 
 </div>
 
@@ -28,11 +28,11 @@ I work at the interface of digital and analog hardware: FPGA/RTL accelerators th
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| **[HybriBMS-FPGA](**[repo link]**)** | Co-designed BMS accelerator: custom 1D systolic engine (8/16/32 PEs), quantized LSTM, fixed-point EKF for SOC/SOH/SOE + thermal fault detection. **[Result: latency / MHz / error vs. FP baseline]** | SystemVerilog, Vivado (HLS), PYNQ-Z2 | In progress |
-| **[Adaptive Sonar Transmitter](**[repo link]**)** | Switches between LFM chirp, geometric sweep and phase-coded pulses from environmental inputs. Self-built R-2R DAC, windowing for 20.6 dB sidelobe suppression **[in simulation]** | MATLAB/Simulink, Python, STM32, FPGA | SIH 2026 |
-| **[4-bit Flash ADC](**[repo link]**)** | Transistor-level flash ADC in SKY130, with Magic layout flow. **[Completed stages: e.g. comparator, PVT/Monte Carlo]** | Xschem, ngspice, Magic, SkyWater PDK | In progress |
-| **[Parameterized FPGA ALU](**[repo link]**)** | RCA/CLA hybrid, FSM-controlled. CLA **350.8 MHz**, approximate mode **512.8 MHz**, **80%** dynamic-power reduction in approximate mode | SystemVerilog, Vivado, PYNQ-Z2 / Artix-7 | Done |
-| **[Discrete PLL](**[repo link]**)** | Perfboard PLL (74HC series, LM317, TL072) with ESP32 frequency counting and OLED/WiFi dashboard. Simulated lock at ~820 µs | OrCAD, LTspice/PSpice, ESP32, LaTeX | Done |
+| **HybriBMS-FPGA** | Co-designed BMS accelerator: custom 1D systolic engine (8/16/32 PEs), quantized LSTM, fixed-point EKF for SOC/SOH/SOE + thermal fault detection. **[Result: latency / MHz / error vs. FP baseline]** | SystemVerilog, Vivado (HLS), PYNQ-Z2 | In progress |
+| **Adaptive Sonar Transmitter** | Switches between LFM chirp, geometric sweep and phase-coded pulses from environmental inputs. Self-built R-2R DAC, windowing for 20.6 dB sidelobe suppression **[in simulation]** | MATLAB/Simulink, Python, STM32, FPGA | SIH 2026 |
+| **4-bit Flash ADC**| Transistor-level flash ADC in SKY130, with Magic layout flow. **[Completed stages: e.g. comparator, PVT/Monte Carlo]** | Xschem, ngspice, Magic, SkyWater PDK | In progress |
+| **Parameterized FPGA ALU** | RCA/CLA hybrid, FSM-controlled. CLA **350.8 MHz**, approximate mode **512.8 MHz**, **80%** dynamic-power reduction in approximate mode | SystemVerilog, Vivado, PYNQ-Z2 / Artix-7 | Done |
+| **[Discrete PLL** | Perfboard PLL (74HC series, LM317, TL072) with ESP32 frequency counting and OLED/WiFi dashboard. Simulated lock at ~820 µs | OrCAD, LTspice/PSpice, ESP32, LaTeX | Done |
 
 ---
 
