@@ -38,16 +38,8 @@ Analog and Digital IC design  · VLSI Physical Design · Semiconductor
 
 
 
-### `// research focus`
-![PQC](https://img.shields.io/badge/Post--Quantum_Cryptography-333?style=flat-square)
-![PQC Hardware](https://img.shields.io/badge/PQC_Hardware_Acceleration-333?style=flat-square)
-![AI Accelerators](https://img.shields.io/badge/AI_Accelerators-333?style=flat-square)
+
 
 
 ---
 
-<div align="center">
-
- &nbsp;·&nbsp; `JLPT N4 · Jul 2026` &nbsp;·&nbsp; `Targeting Rapidus · 2nm`
-
-</div>
